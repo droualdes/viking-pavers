@@ -1,0 +1,130 @@
+<!-- START BAY AREA CITIES -->
+<a name="service_area"></a><a href="#service_area" onclick="showhideAreas();" class="copyright"><b>&raquo; Areas we Service</b></a>
+<div id="service_area_block" name="service_area_block" style="display:none;">
+<table border="0" cellspacing="0" cellpadding="0" width="95%" align="center">
+ <tr><td>
+  <table border="0" cellspacing="0" cellpadding="0">
+   <tr valign="top">
+    <td>
+<ul class="copyright">
+ <li>Alameda, CA</li>
+ <li>Albany, CA</li>
+ <li>American Canyon, CA</li>
+ <li>Antioch, CA</li>
+ <li>Atherton, CA</li>
+ <li>Belmont, CA</li>
+ <li>Belvedere, CA</li>
+ <li>Benicia, CA</li>
+ <li>Berkeley, CA</li>
+ <li>Brentwood, CA</li>
+ <li>Brisbane, CA</li>
+ <li>Burlingame, CA</li>
+ <li>Calistoga, CA</li>
+ <li>Campbell, CA</li>
+ <li>Clayton, CA</li>
+ <li>Cloverdale, CA</li>
+ <li>Colma, CA</li>
+ <li>Concord, CA</li>
+ <li>Corte Madera, CA</li>
+ <li>Cotati, CA</li>
+ <li>Cupertino, CA</li>
+ <li>Daly City, CA</li>
+ <li>Danville, CA</li>
+ <li>Dixon, CA</li>
+ <li>Dublin, CA</li>
+ <li>East Palo Alto, CA</li>
+</ul>	
+	</td>
+    <td>
+<ul class="copyright">
+ <li>El Cerrito, CA</li>
+ <li>Emeryville, CA</li>
+ <li>Fairfax, CA</li>
+ <li>Fairfield, CA</li>
+ <li>Foster City, CA</li>
+ <li>Fremont, CA</li>
+ <li>Gilroy, CA</li>
+ <li>Half Moon Bay, CA</li>
+ <li>Hayward, CA</li>
+ <li>Healdsburg, CA</li>
+ <li>Hercules, CA</li>
+ <li>Hillsborough, CA</li>
+ <li>Lafayette, CA</li>
+ <li>Larkspur, CA</li>
+ <li>Livermore, CA</li>
+ <li>Los Altos, CA</li>
+ <li>Los Altos Hills, CA</li>
+ <li>Los Gatos, CA</li>
+ <li>Martinez, CA</li>
+ <li>Menlo Park, CA</li>
+ <li>Mill Valley, CA</li>
+ <li>Millbrae, CA</li>
+ <li>Milpitas, CA</li>
+ <li>Monte Sereno, CA</li>
+ <li>Moraga, CA</li>
+</ul>	
+	</td>
+    <td>
+<ul class="copyright">
+ <li>Morgan Hill, CA</li>
+ <li>Mountain View, CA</li>
+ <li>Napa, CA</li>
+ <li>Newark, CA</li>
+ <li>Novato, CA</li>
+ <li>Oakland, CA</li>
+ <li>Oakley, CA</li>
+ <li>Orinda, CA</li>
+ <li>Pacifica, CA</li>
+ <li>Palo Alto, CA</li>
+ <li>Petaluma, CA</li>
+ <li>Piedmont, CA</li>
+ <li>Pinole, CA</li>
+ <li>Pittsburg, CA</li>
+ <li>Pleasant Hill, CA</li>
+ <li>Pleasanton, CA</li>
+ <li>Portola Valley, CA</li>
+ <li>Redwood City, CA</li>
+ <li>Richmond, CA</li>
+ <li>Rio Vista, CA</li>
+ <li>Rohnert Park, CA</li>
+ <li>Ross, CA</li>
+ <li>St. Helena, CA</li>
+ <li>San Anselmo, CA</li>
+ <li>San Bruno, CA</li>
+</ul>	
+	</td>
+    <td>
+<ul class="copyright">
+ <li>San Carlos, CA</li>
+ <li>San Francisco, CA</li>
+ <li>San Jose, CA</li>
+ <li>San Leandro, CA</li>
+ <li>San Mateo, CA</li>
+ <li>San Pablo, CA</li>
+ <li>San Ramon, CA</li>
+ <li>San Rafael, CA</li>
+ <li>Santa Clara, CA</li>
+ <li>Santa Rosa, CA</li>
+ <li>Saratoga, CA</li>
+ <li>Sausalito, CA</li>
+ <li>Sebastopol, CA</li>
+ <li>Sonoma, CA</li>
+ <li>South San Francisco, CA</li>
+ <li>Suisun City, CA</li>
+ <li>Sunnyvale, CA</li>
+ <li>Tiburon, CA</li>
+ <li>Union City, CA</li>
+ <li>Vacaville, CA</li>
+ <li>Vallejo, CA</li>
+ <li>Walnut Creek, CA</li>
+ <li>Windsor, CA</li>
+ <li>Woodside, CA</li>
+ <li>Yountville, CA</li>
+</ul>	
+	</td>
+   </tr>
+  </table>
+ </td></tr>
+</table>
+</div>
+<!-- END BAY AREA CITIES -->

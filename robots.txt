@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /terms/*
+Disallow: /privacy/*
+Disallow: /nivo-slider/*
+Disallow: /css/*
+Disallow: /scripts/*
+Disallow: /calculator/*
+Disallow: /css/*
+Disallow: /images/*
+Disallow: /js/*
+Disallow: /scripts/*
+Disallow: /prettyphoto/*
+Disallow: /tnsgallery_full/*
+Disallow: /bay-area-cities.txt
